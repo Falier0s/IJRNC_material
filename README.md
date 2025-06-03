@@ -35,4 +35,8 @@ This repository contains all the files required to test the DRAMPC algorithm pre
   - `requirements.txt`: List of required MATLAB toolboxes and packages.
   - `install_req.m`: MATLAB script to install missing requirements. (BETA available soon)
 
+## License
+
+This project is licensed under the BSD 3-Clause License. See the [LICENSE](./LICENSE) file for details.
+
 
